@@ -27,7 +27,7 @@ test_dataset:
     #set14_path: './data/Set14'
 
 # training setting
-niter: 15000
+niter: 13485
 
 lr_G: !!float 1e-4
 lr_D: !!float 1e-4
@@ -48,4 +48,4 @@ feature_criterion: l1
 w_gan: !!float 5e-3
 gan_type: ragan  # gan | ragan
 
-save_steps: 500
+save_steps: 3374
