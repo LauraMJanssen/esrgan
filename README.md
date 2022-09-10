@@ -45,7 +45,7 @@ Based on the repository by [Kuan-Yu Huang](https://github.com/peteryuX/esrgan-tf
 - **data**: function to prepare the dataset
 - **modules** some additional functions
 - **SRImages**: some example images generated with the ESRGAN models and LR input images
-- **pretrainedModel**: fully trained model 
+- **pretrainedModel**: pre-trained model utilized for transfer learning
 - no trained models could be uploaded due to the high file size
 
 
